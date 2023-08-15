@@ -16,6 +16,10 @@
 ![Screenshot 2 of the application.](./Assets/Screenshot_1.png)
 
 
+
+https://github.com/Celyph/note-taker/assets/122329678/96de99cf-dc7b-47c2-a14e-06795d5f2250
+
+
 ## Credits
 
 I used the ReadMe guide from [https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide).
